@@ -100,6 +100,6 @@ skillpath-ai-mvp/
 
 ## 👤 Desenvolvido por
 
-Perseu
+Perseu Padre de Macedo
 Disciplina: Gestão Ágil de Projetos e Produtos (40530010061_20250_01)
 Data: Setembro 2025
