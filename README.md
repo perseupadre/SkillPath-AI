@@ -86,16 +86,29 @@ skillpath-ai/
   ├── Tela_01.png
   ...
   └── Tela_20.png 
+  
 ├── Guia_MVP.pdf
+
 ├── Jira_Graph.png
+
 ├── JIRA_Link.txt
+
 ├── JIRA_Product_Backlog.pdf
+
 ├── JIRA_Sprint_Backlog.pdf
+
 ├── LICENSE
+
 ├── MIRO_Lean_Inception.pdf
+
 ├── MIRO_Lean_Inception_Link.txt
-├── showcase-video.mp4
+
 ├── README.md
+
+├── Video.mp4
+
+├── Video_Link.mp4
+
 
 ## 👤 Desenvolvido por
 
