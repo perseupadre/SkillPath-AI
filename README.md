@@ -82,9 +82,13 @@ Plataforma com IA que analisa perfis e conecta estudantes com base em compatibil
 skillpath-ai/
 
 └── wireframes/
+
   ├── Tela_00.png
+  
   ├── Tela_01.png
+  
   ...
+  
   └── Tela_20.png 
   
 ├── Guia_MVP.pdf
