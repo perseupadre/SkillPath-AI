@@ -79,39 +79,77 @@ Plataforma com IA que analisa perfis e conecta estudantes com base em compatibil
 - Sistema de moderação
 
 ## 📁 Estrutura do Repositório
-skillpath-ai/
 
-└── wireframes/
+skillpath-ai/ 
 
-  ├── Tela_00.png
-  
-  ├── Tela_01.png
-  
-  ...
-  
-  └── Tela_20.png 
-  
-├── Guia_MVP.pdf
+├── LICENSE      # MIT License 
 
-├── Jira_Graph.png
+├── README.md     # Documentação resumida 
 
-├── JIRA_Link.txt
+├── Guia_MVP.pdf     # Documentação expandida 
 
-├── JIRA_Product_Backlog.pdf
+├── JIRA_Link.txt    # Link para o JIRA – SkillPath AI 
 
-├── JIRA_Sprint_Backlog.pdf
+├── JIRA_Product_Backlog.pdf   # Backlog exportado do Jira (com DoR e DoD) 
 
-├── LICENSE
+├── JIRA_Sprint_Backlog.pdf   # Sprint 1 detalhado do Jira 
 
-├── MIRO_Lean_Inception.pdf
+├── JIRA_Graph.png    # Gráfico JIRA  
 
-├── MIRO_Lean_Inception_Link.txt
+├── MIRO_Lean_Inception.pdf    # Documentação do Miro - Lean Inception 
 
-├── README.md
+├── MIRO_Lean_Inception_Link    # Link para o Miro - Lean Inception 
 
-├── Video.mp4
+├── Video.mp4      # Vídeo de apresentação (2-4 min) 
 
-├── Video_Link.mp4
+├── Video_Link.txt    # Link no Youtube para o vídeo de apresentação (2-4 min) 
+ 
+│ 
+└──    wireframes/ # 22 telas do Figma 
+
+├── Tela_00 (Splash Screen).png   # Splash Screen 
+
+├── Tela_01 (Onboarding 1).png   # Onboarding – Explicação inicial 
+
+├── Tela_02 (Onboarding 2).png   # Onboarding - Como funciona  
+
+├── Tela_03 (Onboarding 3).png   # Onboarding - Além do matching 
+
+├── Tela_04 (Login).png    # Tela de Login 
+
+├── Tela_05 (Cadastro).png   # Cadastro Inicial 
+
+├── Tela_06 (Skills-Preferencias).png  # Skills/Preferências 
+
+├── Tela_07 (Dashboard).png   # Dashboard Principal 
+
+├── Tela_08 (Matching).png   # Sistema de Matching 
+
+├── Tela_09 (Communities 1).png   # Painel de Communities 
+
+├── Tela_10 (Communities 2).png   # Community - Exemplo 
+
+├── Tela_11 (Projetos 1).png   # Projetos Colaborativos 
+
+├── Tela_12 (Projetos 2).png   # Projetos Colaborativos – Exemplo 
+
+├── Tela_13 (Apoio Professor).png  # Apoio Acadêmico com Professores 
+
+├── Tela_14 (Hackathons).png   # Hackathons e Competiçoes  
+
+├── Tela_15 (Testes).png    # Skill Tests 
+
+├── Tela_16 (Gamificacao).png   # Painel com badges e pontuações 
+
+├── Tela_17 (Chat 1).png    # Chat - Lista 
+
+├── Tela_18 (Chat 2).png    # Chat - Conversa 
+
+├── Tela_19 (Perfil).png    # Perfil do Usuário 
+
+├── Tela_20 (Notificacoes).png   # Painel de Notificações 
+
+└── Tela_21 (Configuracoes).png   # Configurações do Usuário 
 
 
 ## 👤 Desenvolvido por
