@@ -1,0 +1,2 @@
+Link do JIRA - SkillPath AI:
+https://perseupadre.atlassian.net/jira/software/projects/SKILL/issues/?jql=project+%3D+%22SKILL%22+AND+status+%3D+Backlog+ORDER+BY+summary+ASC%2C+created+DESC&atlOrigin=eyJpIjoiMzVkNDM4YjM5ODIzNDAxODk0MzY0NGZkYTNlMGU4ZWMiLCJwIjoiaiJ9
